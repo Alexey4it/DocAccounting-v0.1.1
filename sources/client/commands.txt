@@ -1,0 +1,2 @@
+sqlacodegen --outfile DocAccounting/tests/test_db_classes.py mysql+mysqlconnector://root:root@localhost:3306/test1
+sqlacodegen --outfile DocAccounting/database/docaccounting_db_classes.py mysql+mysqlconnector://root:root@localhost:3306/DocAccountingDB

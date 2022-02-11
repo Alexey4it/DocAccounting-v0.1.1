@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icons/icon.png</file>
+	<file>icons/codebar.png</file>
+	<file>icons/db.png</file>
+	<file>icons/doc_help.png</file>
+	<file>icons/employees.png</file>
+	<file>icons/files.png</file>
+	<file>icons/help.png</file>
+	<file>icons/modules.png</file>
+	<file>icons/docs.png</file>
+	<file>icons/download.png</file>
+	<file>icons/exchange.png</file>
+	<file>icons/search.png</file>
+	<file>icons/upload.png</file>
+	<file>icons/category.png</file>
+	<file>icons/developer.png</file>
+	<file>icons/position.png</file>
+	<file>icons/regulatory.png</file>
+	<file>icons/sourcing.png</file>
+	<file>icons/status.png</file>
+	<file>icons/view.png</file>
+	<file>icons/department.png</file>
+  </qresource>
+</RCC>
